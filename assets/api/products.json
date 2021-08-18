@@ -2,31 +2,31 @@
   {
     "id": "notebook",
     "nome": "Notebook",
-    "preco": 2996,
-    "img": "../img/notebook.jpg"
+    "preco": 2999,
+    "img": "./api/products/notebook/notebook.jpg"
   },
   {
     "id": "smartphone",
     "nome": "Smartphone",
     "preco": 1299,
-    "img": "../img/smartphone.jpg"
-  },
-  {
-    "id": "smartwatch",
-    "nome": "Smartwatch",
-    "preco": 936,
-    "img": "../img/smartwatch.jpg"
-  },
-  {
-    "id": "speaker",
-    "nome": "Speaker",
-    "preco": 1345,
-    "img": "../img/speaker.jpg"
+    "img": "./api/products/smartphone/smartphone.jpg"
   },
   {
     "id": "tablet",
     "nome": "Tablet",
-    "preco": 859,
-    "img": "../img/tablet.jpg"
+    "preco": 899,
+    "img": "./api/products/tablet/tablet.jpg"
+  },
+  {
+    "id": "smartwatch",
+    "nome": "Smartwatch",
+    "preco": 1199,
+    "img": "./api/products/smartwatch/smartwatch.jpg"
+  },
+  {
+    "id": "speaker",
+    "nome": "Speaker",
+    "preco": 599,
+    "img": "./api/products/speaker/speaker.jpg"
   }
 ]
