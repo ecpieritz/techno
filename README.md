@@ -31,4 +31,3 @@ git clone https://github.com/ecpieritz/techno.git
 
 ---
 <p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
-
